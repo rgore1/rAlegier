@@ -1,5 +1,5 @@
 == README
 
-Spree Ecommerce
+alegier.pl - Ecommerce application
 
 Ruby, Rails, Spree
